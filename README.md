@@ -1,4 +1,9 @@
 # JARVIS V1
+
+### `HEROKU ADDED`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/) 
+
 <p align="center">
 <a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -41,7 +46,5 @@
 * [`SPARROW`]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
-### `--server`
 
-Deploy to [heroku](https://heroku.com/) 
 
