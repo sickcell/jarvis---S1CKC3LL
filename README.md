@@ -1,9 +1,5 @@
 # JARVIS V1
 
-### `HEROKU ADDED`
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/) 
-
 <p align="center">
 <a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -18,6 +14,11 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2sparroo%2Fjarvis&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 </details>
+
+### `HEROKU`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/) 
+
 
 ### THANKS TO SPARROW
 
