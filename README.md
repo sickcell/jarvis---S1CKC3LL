@@ -7,7 +7,7 @@
 <a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKSHAY-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/sparroo/jarvis/followers"><img title="Followers" src="https://img.shields.io/github/followers/sparroo?color=blue&style=flat-square"></a>
+<a href="https://github.com/sparroo/followers"><img title="Followers" src="https://img.shields.io/github/followers/sparroo?color=blue&style=flat-square"></a>
 <a href="https://github.com/sparroo/jarvis/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sparroo/jarviscolor=red&style=flat-square"></a>
 <a href="https://github.com/sparroo/jarvis/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sparroo/jarvis?color=red&style=flat-square"></a>
 <a href="https://github.com/sparroo/jarvis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sparroo/jarvis?label=Watchers&color=blue&style=flat-square"></a>
