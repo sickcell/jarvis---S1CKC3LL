@@ -121,7 +121,7 @@ const vcard = 'BEGIN:VCARD\n'
               + 'VERSION:3.0\n' 
               + 'FN:' + namaowner + 'ツ\n'
               + 'ORG: Owner' + namabot + ';\n'
-              + 'TEL;type=CELL;type=VOICE;waid=' + 919947291867 + ':+' + 919947291867 + '\n'//Add your number here
+              + 'TEL;type=CELL;type=VOICE;waid=' + 917034854686 + ':+' + 919746623526 + '\n'//Add your number here
               + 'END:VCARD' //
 
 const tulo = 'BEGIN:VCARD\n' 
@@ -1729,8 +1729,8 @@ if (!isVerify) return reply(aml.noregis)
                 uptime = process.uptime()
                 teks = `${kyun(uptime)}`
                 num = `${sender.split("@")[0]}@s.whatsapp.net`
-		    ow = "6289505329516@s.whatsapp.net"
-		    cuy = "6289505329516@s.whatsapp.net"
+		    ow = "919746623526@s.whatsapp.net"
+		    cuy = "919746623526@s.whatsapp.net"
                 if (simple == false) Chan = `
 ┌───〔 *_𝙹𝙰𝚁𝚅𝙸𝚂_* 〕
 ┊
